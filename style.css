@@ -94,7 +94,7 @@
 }
 
 .header-body {
-  background-image: url("/PL1/html/images/headerbody/clouds.svg"), url(/PL1/html/images/headerbody/wave.svg);
+  background-image: url("images/headerbody/clouds.svg"), url("images/headerbody/wave.svg");
   background-color: #F5F8FF;
   background-repeat: no-repeat;
   height: 570px;
@@ -170,7 +170,7 @@
 
 .section2 {
   padding: 208px 756px 271px 216px;
-  background-image: url(/PL1/html/images/section2/illustration.svg);
+  background-image: url("images/section2/illustration.svg");
   background-color: #F5F8FF;
   background-repeat: no-repeat;
   background-position-x: right;
@@ -286,7 +286,7 @@
 }
 
 .section3 {
-  background: url(/PL1/html/images/section3/clouds.svg);
+  background: url("images/section3/clouds.svg");
   background-repeat: no-repeat;
   background-position-y: 60px;
 }
@@ -635,7 +635,7 @@
       grid-column-start: 1;
   -ms-grid-column-span: 1;
   grid-column-end: 2;
-  background: linear-gradient(13.46deg, rgba(255, 199, 53, 0.44) 1.89%, rgba(255, 227, 154, 0.93) 1.9%, rgba(255, 159, 90, 0) 68.24%), url(/PL1/html/images/section5/image1.png);
+  background: linear-gradient(13.46deg, rgba(255, 199, 53, 0.44) 1.89%, rgba(255, 227, 154, 0.93) 1.9%, rgba(255, 159, 90, 0) 68.24%), url("images/section5/image1.png");
   -webkit-filter: drop-shadow(0px 15px 100px #E5EBF8);
           filter: drop-shadow(0px 15px 100px #E5EBF8);
   border-radius: 5px;
@@ -643,14 +643,14 @@
 
 .section5__image2 {
   margin-left: 13px;
-  background: linear-gradient(27.48deg, rgba(255, 53, 53, 0.48) 14.02%, rgba(255, 179, 90, 0) 68%), url(/PL1/html/images/section5/image2.png);
+  background: linear-gradient(27.48deg, rgba(255, 53, 53, 0.48) 14.02%, rgba(255, 179, 90, 0) 68%), url("images/section5/image2.png");
   -webkit-filter: drop-shadow(0px 15px 100px #E5EBF8);
           filter: drop-shadow(0px 15px 100px #E5EBF8);
   border-radius: 5px;
 }
 
 .section5__image3 {
-  background: linear-gradient(13.49deg, rgba(53, 170, 255, 0.68) 11.59%, rgba(90, 136, 255, 0) 96.88%), url(/PL1/html/images/section5/image3.png);
+  background: linear-gradient(13.49deg, rgba(53, 170, 255, 0.68) 11.59%, rgba(90, 136, 255, 0) 96.88%), url("images/section5/image3.png");
   -webkit-filter: drop-shadow(0px 15px 100px #E5EBF8);
           filter: drop-shadow(0px 15px 100px #E5EBF8);
   border-radius: 5px;
@@ -954,7 +954,7 @@
 }
 
 .section8 {
-  background: url(/PL1/html/images/section8/clouds\ 1.svg), linear-gradient(229.32deg, #6888FF 12.77%, #5E80FF 73.11%);
+  background: url("images/section8/clouds\ 1.svg"), linear-gradient(229.32deg, #6888FF 12.77%, #5E80FF 73.11%);
   background-repeat: no-repeat;
   padding: 92px 392px;
 }
