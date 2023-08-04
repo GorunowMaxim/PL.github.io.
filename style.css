@@ -94,7 +94,7 @@
 }
 
 .header-body {
-  background-image: url(images/headerbody/clouds.svg), url(images/headerbody/wave.svg);
+  background-image: url("images/headerbody/clouds.svg"), url("images/headerbody/wave.svg");
   background-color: #F5F8FF;
   background-repeat: no-repeat;
   height: 570px;
