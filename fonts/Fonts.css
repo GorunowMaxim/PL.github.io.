@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url('Quicksand-Bold.ttf') format('trutype');
+    src: url('Quicksand-Bold.woff') format('woff');
+    src: url('Quicksand-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url('Quicksand-Medium.ttf') format('trutype');
+    src: url('Quicksand-Medium.woff') format('woff');
+    src: url('Quicksand-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url('Roboto-Regular.ttf') format('trutype');
+    src: url('Roboto-Regular.woff') format('woff');
+    src: url('Roboto-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url('Roboto-Medium.ttf') format('trutype');
+    src: url('Roboto-Medium.woff') format('woff');
+    src: url('Roboto-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Open sans";
+    src: url('Opensans-SemiBold.ttf') format('trutype');
+    src: url('Opensans-SemiBold.woff') format('woff');
+    src: url('Opensans-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Open sans";
+    src: url('Opensans-Bold.ttf') format('trutype');
+    src: url('Opensans-Bold.woff') format('woff');
+    src: url('Opensans-Bold.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url('Quicksand-Regular.ttf') format('trutype');
+    src: url('Quicksand-Regular.woff') format('woff');
+    src: url('Quicksand-Regular.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url('Quicksand-Light.ttf') format('trutype');
+    src: url('Quicksand-Light.woff') format('woff');
+    src: url('Quicksand-Light.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
